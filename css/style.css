@@ -6,13 +6,27 @@
   letter-spacing: 0.14em;  }
 .author {
   font-family: 'Lato': sans-serif;
-  color: blue:
+  color: blue;
   font-size: 20px;
   font-style: italic;
-  font-weight: normal; }
+  font-weight: bold; }
 .text {
   font-size: 16px;
   font-style: normal;}
 .text-italic {
   font-size: 16px;
   font-style: italic;}
+.page-footer {
+  font-family: 'Karla', sans-serif;
+  font-size: 14px;
+  color: #7f8c8d;
+  background: #f0f0f0;
+  }
+ .page-footer .container {
+  display: fixed;
+  justify-content: space-between; }
+  
+.page-footer p {
+  margin: 0;
+  padding: 20px 4px;
+  letter-spacing: 2px; }
