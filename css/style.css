@@ -30,3 +30,6 @@
   margin: 0;
   padding: 20px 4px;
   letter-spacing: 2px; }
+.body{
+  display -ms-flexbox;
+  display: flex; }
