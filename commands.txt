@@ -1,7 +1,3 @@
-Instal commends
-npm install --save-dev autoprefixer-cli
-npm install --save-dev html-validate
-
 Using commends
 autoprefixer-cli -o css/main.prefixed.css css/style.css
 html-validate index.html

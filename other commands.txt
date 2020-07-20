@@ -1,0 +1,10 @@
+Instal commends
+npm install --save-dev autoprefixer-cli  (local)
+npm install --save-dev html-validate  (local)
+npm install --save-dev --global autoprefixer-cli  (global)
+npm install --save-dev --global html-validate  (global)
+
+cała ścieżka
+node_modules/.bin/autoprefixer-cli -o css/style.prefixed.css css/style.css
+
+npm i -D mkdirp

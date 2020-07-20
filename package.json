@@ -17,8 +17,5 @@
     "url": "https://github.com/Jagoda-Wawrzynek/learning-git-2/issues"
   },
   "homepage": "https://github.com/Jagoda-Wawrzynek/learning-git-2#readme",
-  "devDependencies": {
-    "autoprefixer-cli": "^1.0.0",
-    "html-validate": "^3.0.0"
-  }
+  "devDependencies": {}
 }
